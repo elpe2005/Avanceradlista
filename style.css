@@ -4,5 +4,5 @@ body{
 ol,li{
     color:rgb(112, 248, 50);
     font-family:'Times New Roman';
-    list-style-type:georgian;
-}
+    list-style-type:decimal;
+
